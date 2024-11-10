@@ -26,11 +26,11 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Just Another Text Editor',
-        short_name: 'J.A.T.E',
-        description: 'Takes notes with JavaScript syntax highlighting!',
-        background_color: '#225ca3',
-        theme_color: '#225ca3',
+        name: 'Just A Text Editor',
+        short_name: 'J.A.T.E.',
+        description: 'Amazing note taker with JavaScript syntax highlighting!',
+        background_color: '#5482ab',
+        theme_color: '#5482ab',
         start_url: '/',
         publicPath: '/',
         icons: [

@@ -8,10 +8,10 @@ This is a single-page application that runs in the browser for getting and stori
 ![Screenshot](assets/screenshot1.png)
 ![Screenshot](assets/screenshot2.png)
 
-[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1xXVqzhZ0NM9QBvIxsBdYBulI-z_OHSCx/view)
 
-Deployed site: https://note-taker-11-4z3n.onrender.com
-Repo: https://github.com/stephenw987/Note_Taker_11.git
+Deployed site: https://text-editor-19.onrender.com/
+
+Repo: https://github.com/stephenw987/Text_Editor_19.git
 
 
 ## Usage
